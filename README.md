@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, it's Daniel Wei 👋 
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 
 <!--
 **epicdragon44/epicdragon44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
