@@ -2,12 +2,17 @@
 
 ### Cornell (🌽hell) ‘25
 
-**Major**: Computer Science
+**Major**: 
+
+💻 Computer Science
 
 **Minors**: 
-- East Asian Studies
-- Information Science (with a Design Concentration)
-- Entrepreneurship and Innovation
+
+㊗️ East Asian Studies
+
+📶 Information Science (with a Design Concentration)
+
+🌐 Entrepreneurship and Innovation
 
 ...at least for now :)
 
@@ -21,7 +26,11 @@ ___
 
 ___
 
+### Github Trends
+
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/epicdragon44/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://githubtrends.io)   [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/epicdragon44/repos?time_range=six_months&include_private=True&group=private&theme=dark)](https://githubtrends.io)
+
+👀 See my <a href="https://www.githubtrends.io/wrapped/epicdragon44">Github Wrapped</a> for 2022.
 
 <!--
 **epicdragon44/epicdragon44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
