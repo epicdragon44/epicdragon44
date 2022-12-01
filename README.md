@@ -1,6 +1,8 @@
 ### Hi, I'm Daniel Wei 👋 
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/epicdragon44/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://githubtrends.io)
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/epicdragon44/repos?time_range=six_months&include_private=True&group=private&theme=dark)](https://githubtrends.io)
 
 <!--
 **epicdragon44/epicdragon44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
