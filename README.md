@@ -1,4 +1,4 @@
-### Hi, it's Daniel Wei 👋 
+### Hi, I'm Daniel Wei 👋 
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 
