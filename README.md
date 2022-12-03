@@ -1,6 +1,6 @@
 # Hi, I'm Daniel Wei 👋 
 
-### Cornell (🌽hell) ‘25
+### Cornell ‘25
 
 **Major**: 
 
