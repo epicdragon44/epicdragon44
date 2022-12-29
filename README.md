@@ -10,7 +10,7 @@
 
 ㊗️ East Asian Studies
 
-📶 Information Science (with a Design Concentration)
+📶 Information Science (Concentrating in UX)
 
 🌐 Entrepreneurship and Innovation
 
