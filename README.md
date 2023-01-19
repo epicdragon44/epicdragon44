@@ -12,10 +12,6 @@
 
 📶 Information Science (Concentrating in UX)
 
-🌐 Entrepreneurship and Innovation
-
-...at least for now :)
-
 ___
 
 ### Specializing in Frontend, Design, Start-Ups, and Management. 
