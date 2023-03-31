@@ -1,10 +1,6 @@
-# Hi. I'm Daniel Wei
+# Hi! I'm Daniel Wei.
 
-### Cornell ‘25
-
-**Major**: 
-
-💻 Computer Science
+### Computer Science @ Cornell University
 
 **Minors**: 
 
