@@ -1,16 +1,11 @@
 # Hi! I'm Daniel Wei.
 
-### Computer Science @ Cornell University
-
-**Minors**: 
-
-㊗️ East Asian Studies
-
-📶 Information Science (Concentrating in UX)
+Computer Science @ Cornell.
+Minoring in UX Design and East Asian Studies.
 
 ___
 
-### Specializing in Frontend, Design, Start-Ups, and Management. 
+### Talk to me about Frontend, Design, Start-Ups, and Management. 
 
 <p align="left">👉 Follow me on <a href="https://twitter.com/fromdanielwei15">Twitter</a> and <a href="https://www.linkedin.com/in/weidaniel15">LinkedIn</a>!
 </p>
