@@ -19,7 +19,7 @@ let show_me (me: info) : string = match me with
 ```
 
 # TypeScript
-[Transpile](#javascript) ➡️ JavaScript
+[Compile](#javascript) ➡️ JavaScript
 
 ```ts
 type Info = 'Student' | 'Work' | 'Fun' | 'Social';
@@ -40,7 +40,7 @@ interface Fun {
 
 type Daniel_Wei_Info = Student | Work | Fun | Info;
 
-function show_me(me: Daniel_Wei_Info): string {
+const show_me = (me: Daniel_Wei_Info): string => {
   switch (me) {
     case 'Student':
       return "Cornell University Computer Science, minoring in UX Design and East Asian Studies";
