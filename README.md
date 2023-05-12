@@ -26,7 +26,7 @@ Stuff that fascinates me:
 - really great design
     - ChatGPT won't take this one, promise.
 - the beauty of the things we build, the things we don't, and everything in-between.
-    - brutalism. doors. diasporic nations. the view from a bullet train traveling west from xi'an. saturn's rings.
+    - brutalism. doors. diasporic nations. bullet trains. saturn's rings.
     - if you've read this far, take a screen break and look outside.
 
 Follow me places! 
