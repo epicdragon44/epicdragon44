@@ -10,28 +10,19 @@ Things I'm somewhat decent at:
 - Management
 
 I've worked at:
-- Instapath (YC W19) <> Software Engineer Intern
+- Instapath (YC W19) <> Product Engineer Intern
 - Yoomi Health <> Senior Software Engineer
 - Cornell DTI <> Lead of Development
 
 In my free time, you'll catch me:
-- kayaking
+- kayaking in atx
+- learning photography
 - composing music
 - doomscrolling on Twitter
-- re-watching Start-Up (the kdrama) in my room.
-
-Stuff that fascinates me:
-- really good web development
-    - let's get better at reactivity, state management, styling, and testing.
-- really great design
-    - ChatGPT won't take this one, promise.
-- the beauty of the things we build, the things we don't, and everything in-between.
-    - brutalism. doors. diasporic nations. bullet trains. saturn's rings.
-    - if you've read this far, take a screen break and look outside.
+- re-watching kdramas in my room.
 
 Follow me places! 
 - danielwei.me is my personal site
-- catch me on Twitter @danielwei15
 - linkedin.com/in/weidaniel15
 
 Some of my favorite projects are pinned below! Please do check them out.
