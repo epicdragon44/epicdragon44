@@ -19,7 +19,6 @@ In my free time, you'll catch me:
 - learning photography
 - composing music
 - doomscrolling on Twitter
-- re-watching kdramas in my room.
 
 Follow me places! 
 - danielwei.me is my personal site
