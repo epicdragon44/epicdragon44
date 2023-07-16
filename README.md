@@ -16,7 +16,7 @@ I've worked at:
 
 In my free time, you'll catch me:
 - kayaking in atx
-- learning photography
+- being shit at photography
 - composing music
 - doomscrolling on Twitter
 
