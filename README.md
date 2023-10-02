@@ -1,7 +1,7 @@
 ```
 hi! i'm daniel.
 
-developer & (occasional) designer
+developer & designer
 leading development @ cornell dti
 product engineering @ instapath (yc w19)
 majoring in computer science @ cornell
