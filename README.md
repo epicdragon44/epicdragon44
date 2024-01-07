@@ -1,12 +1,8 @@
 ```
-hi! i'm daniel.
-
-design engineer
+design engineer studying cs & ux @ cornell
+currently founding design eng @ an EF-backed startup
 incoming software eng @ bubble.io
-design consultant @ dcc
-fmr. development lead @ cornell dti
-fmr. product engineer @ instapath (yc w19)
-studying cs & ux @ cornell
-
-check out my pinned projects pls
+formerly product engineer @ instapath (yc w19)
+on-campus: currently pm @ dcc, ex-devlead @ cornell dti
+neo scholar finalist
 ```
